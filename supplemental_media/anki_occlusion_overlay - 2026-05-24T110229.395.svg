@@ -1,0 +1,13 @@
+<svg width="1265" height="552" viewBox="0 0 1265 552" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .anki-mask { fill: #facc15; stroke: #ca8a04; stroke-width: 2px; }
+  </style>
+  <circle id="mask-1" class="anki-mask" cx="1163.4000000000005" cy="483.75" r="21.5" />
+  <circle id="mask-2" class="anki-mask" cx="1234.4000000000005" cy="321.75" r="21.5" />
+  <circle id="mask-3" class="anki-mask" cx="1237.4000000000005" cy="207.75" r="21.5" />
+  <circle id="mask-4" class="anki-mask" cx="1235.4000000000005" cy="79.75" r="21.5" />
+  <circle id="mask-5" class="anki-mask" cx="533.4000000000001" cy="197.75" r="21.5" />
+  <circle id="mask-6" class="anki-mask" cx="537.4000000000001" cy="280.75" r="21.5" />
+  <circle id="mask-7" class="anki-mask" cx="535.4000000000001" cy="351.75" r="21.5" />
+  <circle id="mask-8" class="anki-mask" cx="532.4000000000001" cy="432.75" r="21.5" />
+</svg>
