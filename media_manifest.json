@@ -286,6 +286,10 @@
       "size": 79758,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/L101852.jpg"
     },
+    "L101863.jpg": {
+      "size": 44841,
+      "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/L101863.jpg"
+    },
     "L102889.jpg": {
       "size": 118945,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/L102889.jpg"
@@ -614,6 +618,10 @@
       "size": 6740,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/L44990.png"
     },
+    "L44992.png": {
+      "size": 12139,
+      "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/L44992.png"
+    },
     "L45362.png": {
       "size": 173530,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/L45362.png"
@@ -705,6 +713,10 @@
     "L61009.jpg": {
       "size": 88152,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/L61009.jpg"
+    },
+    "L62060.jpg": {
+      "size": 49710,
+      "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/L62060.jpg"
     },
     "L62835.jpg": {
       "size": 118717,
@@ -918,17 +930,37 @@
       "size": 85910,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/L94106.jpg"
     },
+    "L94519.jpg": {
+      "size": 42473,
+      "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/L94519.jpg"
+    },
+    "L94519.svg": {
+      "size": 57194,
+      "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/L94519.svg"
+    },
     "L94520.jpg": {
       "size": 40954,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/L94520.jpg"
+    },
+    "L94520.svg": {
+      "size": 55152,
+      "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/L94520.svg"
     },
     "L94521.jpg": {
       "size": 42107,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/L94521.jpg"
     },
+    "L94521.svg": {
+      "size": 56706,
+      "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/L94521.svg"
+    },
     "L94522.jpg": {
       "size": 38098,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/L94522.jpg"
+    },
+    "L94522.svg": {
+      "size": 51361,
+      "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/L94522.svg"
     },
     "L95046.jpg": {
       "size": 132920,
@@ -1458,6 +1490,14 @@
       "size": 76123,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/big_60cb39b60d3f2.jpg"
     },
+    "big_61aa3c019d1-b6b00cde538bd87133f4a66cdc29ae6909e508a7.svg": {
+      "size": 371038,
+      "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/big_61aa3c019d1-b6b00cde538bd87133f4a66cdc29ae6909e508a7.svg"
+    },
+    "big_61aa3c019d1.svg": {
+      "size": 370923,
+      "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/big_61aa3c019d1.svg"
+    },
     "big_61aa3c019d1cc.jpg": {
       "size": 277767,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/big_61aa3c019d1cc.jpg"
@@ -1718,6 +1758,10 @@
       "size": 85708,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/paste-4efcb6328a35aa14615cbdb7691d6e5de25b8927.jpg"
     },
+    "paste-4fa2d6d0c4f07dfffca638002bce56b2b67b7832.jpg": {
+      "size": 42033,
+      "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/paste-4fa2d6d0c4f07dfffca638002bce56b2b67b7832.jpg"
+    },
     "paste-5166a290b7c5911627bcc2fb0ec99c34232d584b.jpg": {
       "size": 81093,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/paste-5166a290b7c5911627bcc2fb0ec99c34232d584b.jpg"
@@ -1954,6 +1998,10 @@
       "size": 17666,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/paste-bbaa8212ee5f368d30a97741f7ec7d3be4ae72bb.jpg"
     },
+    "paste-bd532debcff77f55ff8ad42746c0acb3248b1381.jpg": {
+      "size": 44751,
+      "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/paste-bd532debcff77f55ff8ad42746c0acb3248b1381.jpg"
+    },
     "paste-bdb82daa0e15e6ec1943638c8422a60d8f50ae7d.jpg": {
       "size": 48319,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/paste-bdb82daa0e15e6ec1943638c8422a60d8f50ae7d.jpg"
@@ -1978,6 +2026,10 @@
       "size": 136884,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/paste-c31ffa015072022c755b9b28bf020a35bc655fc3.jpg"
     },
+    "paste-c5e2762fc0f27b9acf41eaf3e2f3fbaea89d4857.jpg": {
+      "size": 49650,
+      "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/paste-c5e2762fc0f27b9acf41eaf3e2f3fbaea89d4857.jpg"
+    },
     "paste-c8f7a59392d91ee3997d7ca716e4af80920e5e53.jpg": {
       "size": 84009,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/paste-c8f7a59392d91ee3997d7ca716e4af80920e5e53.jpg"
@@ -1998,6 +2050,10 @@
       "size": 109911,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/paste-cef46301748fa1616ada15ab1ff9823e1d3150e7.jpg"
     },
+    "paste-cf970ab2875a9f222c002840a4f49b77d94bf696.jpg": {
+      "size": 42890,
+      "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/paste-cf970ab2875a9f222c002840a4f49b77d94bf696.jpg"
+    },
     "paste-d18bfb9923406148fb09b44e4f0b98037b1f8619.jpg": {
       "size": 123201,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/paste-d18bfb9923406148fb09b44e4f0b98037b1f8619.jpg"
@@ -2009,6 +2065,10 @@
     "paste-d3d8e9c7b5e0bea1fbc6a40cab7539e416a05f50.jpg": {
       "size": 24409,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/paste-d3d8e9c7b5e0bea1fbc6a40cab7539e416a05f50.jpg"
+    },
+    "paste-d4bba9ce99df63182c5de2c5c85049a698c48355.jpg": {
+      "size": 43034,
+      "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/paste-d4bba9ce99df63182c5de2c5c85049a698c48355.jpg"
     },
     "paste-d5c939a9b7303977b76c1dfa895a20a9885d8f16.jpg": {
       "size": 83367,
@@ -2069,6 +2129,10 @@
     "paste-e72d788d2ad564ec683a086837c75f1d9fc5e735.jpg": {
       "size": 149134,
       "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/paste-e72d788d2ad564ec683a086837c75f1d9fc5e735.jpg"
+    },
+    "paste-e8f1ab73cef28adc5354f1e885006a81d85f1fed.jpg": {
+      "size": 48717,
+      "url": "https://raw.githubusercontent.com/isbellzach11/shsu-curriculum/main/supplemental_media/paste-e8f1ab73cef28adc5354f1e885006a81d85f1fed.jpg"
     },
     "paste-ebb0f54175dcec19e0deb687a89eacbe84d217fe.jpg": {
       "size": 92048,
