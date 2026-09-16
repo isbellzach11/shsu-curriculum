@@ -1,0 +1,15 @@
+<svg width="651" height="1000" viewBox="0 0 705 1083" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .anki-mask { fill: #facc15; stroke: #ca8a04; stroke-width: 2px; }
+  </style>
+  <circle id="mask-1" class="anki-mask" cx="66.83319306514055" cy="164.0484758168789" r="20.571428571428573" />
+  <circle id="mask-2" class="anki-mask" cx="69.87106547719239" cy="236.9589095132695" r="20.571428571428573" />
+  <circle id="mask-3" class="anki-mask" cx="461.9702070358525" cy="48.60695579759374" r="20.571428571428573" />
+  <circle id="mask-4" class="anki-mask" cx="72.90893788924423" cy="312.9072779470097" r="20.571428571428573" />
+  <circle id="mask-5" class="anki-mask" cx="581.9661673119003" cy="154.93467160483004" r="20.571428571428573" />
+  <circle id="mask-6" class="anki-mask" cx="627.534253492678" cy="217.21233372049704" r="20.571428571428573" />
+  <circle id="mask-7" class="anki-mask" cx="621.2449082646018" cy="423.7918958602705" r="20.571428571428573" />
+  <circle id="mask-8" class="anki-mask" cx="586.5229759299782" cy="607.5869474699217" r="20.571428571428573" />
+  <circle id="mask-9" class="anki-mask" cx="600.1934017842113" cy="808.090640134996" r="20.571428571428573" />
+  <circle id="mask-10" class="anki-mask" cx="642.7236155529372" cy="937.2028664723543" r="20.571428571428573" />
+</svg>
